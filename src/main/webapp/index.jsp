@@ -39,7 +39,7 @@
 <br />
 <br />
  <% out.println("IP Address is: " + request.getLocalAddr()); %>
-<% out.println("-- Sumit";%>
+<% out.println("-- Sumit");%>
 </div>
 </body>
 </html>
